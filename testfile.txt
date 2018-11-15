@@ -1,3 +1,5 @@
 Test file new
 
 Line 2 from another user
+
+Line 3 from new branch
